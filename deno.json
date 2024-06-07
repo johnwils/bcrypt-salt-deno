@@ -1,4 +1,5 @@
 {
+  "name": "@wilson/bcrypt-salt",
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
